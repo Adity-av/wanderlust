@@ -87,7 +87,7 @@ WanderLust
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AMANkumar0004/wanderLust.git
+git clone https://github.com/Adity-av/wanderlust.git
 ```
 
 ### 2. Navigate to the project directory
@@ -168,6 +168,5 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Aman Kumar
-
-GitHub: https://github.com/AMANkumar0004
+Aditya Vikram
+GitHub: https://github.com/Adity-av
